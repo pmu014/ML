@@ -1,0 +1,29 @@
+.mainStyle {
+    height: 120px;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 25px;
+  }
+  
+.logoStyle {
+    height: 90px;
+    padding: 20px;
+  }
+
+.tabStyle {
+    height: 80px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+  }
+
+.tabBoxStyle {
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    border: 1px solid black;
+  }
