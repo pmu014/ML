@@ -1,5 +1,5 @@
 .mainStyle {
-    height: 120px;
+    height: 80px;
     font-size: 50px;
     display: flex;
     align-items: center;
@@ -13,7 +13,7 @@
   }
 
 .tabStyle {
-    height: 80px;
+    height: 60px;
     font-size: 30px;
     display: flex;
     justify-content: center;
